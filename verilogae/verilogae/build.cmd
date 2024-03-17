@@ -1,1 +1,0 @@
-RUSTFLAGS="-C linker=ld -C link-arg=-L/opt/homebrew/Cellar/zstd/1.5.5/lib" cargo build --target aarch64-apple-darwin
